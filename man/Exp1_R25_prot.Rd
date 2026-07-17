@@ -9,9 +9,6 @@ An object of class `QFeatures` related to proteins
 quantification. It contains 6 samples divided into two conditions
 (25 fmol and 10 fmol) and 2384 proteins.
 }
-\usage{
-data(Exp1_R25_prot)
-}
 \value{
 An object of class `QFeatures` related to proteins
 quantification.

@@ -18,7 +18,6 @@
 #' (see inst/extdata/Exp1_R25_prot.txt), or as a `QFeatures` structure
 #' (Exp1_R25_prot.ft). In the latter case, the quantitative data are those of
 #' the raw intensities.
-#' @usage data(Exp1_R25_prot)
 #' @return An object of class `QFeatures` related to proteins
 #' quantification.
 #' @format An object of class `QFeatures` related to proteins
@@ -63,7 +62,6 @@ NULL
 #' The dataset is either available as a CSV file
 #' (see inst/extdata/Exp1_R25_pept.txt). In the latter case,
 #' the quantitative data are those of the raw intensities.
-#' @usage data(Exp1_R25_pept)
 #' @return An object of class `QFeatures` related to proteins
 #' quantification.
 #' @format An object of class `QFeatures` related to proteins
@@ -110,7 +108,6 @@ NULL
 #' (see inst/extdata/Exp1_R2_prot.txt), or as a `QFeatures` structure
 #' (Exp1_R2_prot.ft). In the latter case, the quantitative data are those of
 #' the raw intensities.
-#' @usage data(Exp1_R2_prot)
 #' @return An object of class `QFeatures` related to proteins
 #' quantification.
 #' @format An object of class `QFeatures` related to proteins
@@ -155,7 +152,6 @@ NULL
 #'
 #' The dataset is either available as a CSV file
 #' (see inst/extdata/Exp1_R2_prot.txt)
-#' @usage data(Exp1_R2_pept)
 #' @return An object of class `QFeatures` related to proteins
 #' quantification.
 #' @format An object of class `QFeatures` related to proteins
@@ -203,7 +199,6 @@ NULL
 #' (see inst/extdata/Exp2_R2_prot.txt), or as a `QFeatures` structure
 #' (Exp2_R2_prot.ft). In the latter case, the quantitative data are those of
 #' the raw intensities.
-#' @usage data(Exp2_R2_prot)
 #' @return An object of class `QFeatures` related to proteins
 #' quantification.
 #' @format An object of class `QFeatures` related to proteins
@@ -250,7 +245,6 @@ NULL
 #' (see inst/extdata/Exp2_R2_pept.txt), or as a `QFeatures` structure
 #' (Exp2_R2_pept.ft). In the latter case, the quantitative data are those of
 #' the raw intensities.
-#' @usage data(Exp2_R2_pept)
 #' @return An object of class `QFeatures` related to peptides
 #' quantification.
 #' @format An object of class `QFeatures` related to peptides
@@ -298,7 +292,6 @@ NULL
 #' (see inst/extdata/Exp2_R10_prot.txt), or as a `QFeatures` structure
 #' (Exp2_R10_prot.ft). In the latter case, the quantitative data are those of
 #' the raw intensities.
-#' @usage data(Exp2_R10_prot)
 #' @return An object of class `QFeatures` related to proteins
 #' quantification.
 #' @format An object of class `QFeatures` related to proteins
@@ -347,7 +340,6 @@ NULL
 #' (see inst/extdata/Exp2_R10_pept.txt), or as a `QFeatures` structure
 #' (Exp2_R10_pept.ft). In the latter case, the quantitative data are those of
 #' the raw intensities.
-#' @usage data(Exp2_R10_pept)
 #' @return An object of class `QFeatures` related to peptides
 #' quantification.
 #' @format An object of class `QFeatures` related to peptides
@@ -396,7 +388,6 @@ NULL
 #' (see inst/extdata/Exp2_R100_prot.txt), or as a `QFeatures` structure
 #' (Exp2_R100_prot.ft). In the latter case, the quantitative data are those of
 #' the raw intensities.
-#' @usage data(Exp2_R100_prot)
 #' @return An object of class `QFeatures` related to proteins
 #' quantification.
 #' @format An object of class `QFeatures` related to proteins
@@ -445,7 +436,6 @@ NULL
 #' (see inst/extdata/Exp2_R100_pept.txt), or as a `QFeatures` structure
 #' (Exp2_R100_peptt.ft). In the latter case, the quantitative data are those of
 #' the raw intensities.
-#' @usage data(Exp2_R100_pept)
 #' @return An object of class `QFeatures` related to peptides
 #' quantification.
 #' @format An object of class `QFeatures` related to peptides

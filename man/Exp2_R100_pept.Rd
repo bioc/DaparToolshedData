@@ -9,9 +9,6 @@ An object of class `QFeatures` related to peptides
 quantification. It contains 6 samples divided into two conditions
 (1 fmol and 100 fmol) and 5684 peptides.
 }
-\usage{
-data(Exp2_R100_pept)
-}
 \value{
 An object of class `QFeatures` related to peptides
 quantification.
