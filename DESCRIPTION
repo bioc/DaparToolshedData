@@ -1,7 +1,7 @@
 Package: DaparToolshedData
 Type: Package
 Title: Data accompanying the DaparToolshed and Prostar 2 packages
-Version: 1.0.0
+Version: 1.1.0
 Date: 2026-07-17
 Authors@R: 
   c(person(given = "Samuel", 
